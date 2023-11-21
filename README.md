@@ -1,4 +1,4 @@
-# FlipperReleases
+# Flipper for Apple Slicon
 
 Flipper macOS application currents runs via Rosetta on Apple Silicon machines and therefore suffers from performance issues. fps is super low and there is a noticable lag while switching between plugins, etc.
 

@@ -7,7 +7,7 @@ Performance is great on the generated Flipper universal binary, didn't see any f
 This is being tracked in https://github.com/facebook/flipper/pull/3553. Until Meta distributes a universal Flipper binary, this repository applies the author's commits on every latest Flipper release via a GitHub Action workflows. The `generate.sh` is the file executed by the workflow.
 
 Additional patch applied:
-1. Using https://www.npmjs.com/package/@electron/universal 1.3.4 as this is the latest stable release. 
+1. Using https://www.npmjs.com/package/@electron/universal 2.0.0 as this is the latest stable release. 
 
 
 Note: this repository will be deleted when Meta starts distributing a universal Flipper binary.
